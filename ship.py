@@ -4,7 +4,11 @@ from bullet import Bullet
 
 # author:watermelonlei
 # coding=GBK
+<<<<<<< HEAD
 # edit in master
+=======
+# edit in dev
+>>>>>>> dev
 class Ship():
     def __init__(self,ai_setting,screen):
         self.screen = screen
