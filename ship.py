@@ -2,7 +2,7 @@
 import pygame
 from bullet import Bullet
 
-
+# author:watermelonlei
 # coding=GBK
 class Ship():
     def __init__(self,ai_setting,screen):
