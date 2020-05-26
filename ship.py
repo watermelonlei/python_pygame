@@ -4,6 +4,7 @@ from bullet import Bullet
 
 # author:watermelonlei
 # coding=GBK
+# edit in master
 class Ship():
     def __init__(self,ai_setting,screen):
         self.screen = screen
