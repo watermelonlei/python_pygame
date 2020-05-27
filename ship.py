@@ -7,6 +7,7 @@ from bullet import Bullet
 # edit in dev
 # work not finish
 # edit in dev prepare to remote branch
+# edit in another work dev branch
 class Ship():
     def __init__(self,ai_setting,screen):
         self.screen = screen
