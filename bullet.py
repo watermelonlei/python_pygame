@@ -1,6 +1,6 @@
 # coding=UTF-8
 import pygame
- 
+#add
 from pygame.sprite import Sprite
  
 class Bullet(Sprite):
